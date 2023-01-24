@@ -18,6 +18,8 @@ server/
 .mtj.tmp/
 */.vs/*
 
+*.env
+
 # Package Files #
 *.jar
 *.war

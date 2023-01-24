@@ -18,7 +18,7 @@ server/
 .mtj.tmp/
 */.vs/*
 
-*.env
+server/.env
 
 # Package Files #
 *.jar

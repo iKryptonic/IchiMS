@@ -1,3 +1,0 @@
-LIBRARY bms-client
-EXPORTS
-	init_client
